@@ -29,11 +29,12 @@ body {
         position: absolute;
         color: black;
         margin-top: 410px;
-        margin-left: 50px;
+        margin-left: 10px;
+        font-size: 12px;
     }
     .foto {
         margin-top: 100px;
-        margin-left: 160px;
+        margin-left: 80px;
 
     }
     
