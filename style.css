@@ -1,0 +1,22 @@
+#grad1 {
+    height: 900px;
+    background-color: red; 
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); 
+    width: 1543px;
+}
+body {
+    position: fixed;
+    
+}
+.foto {
+    position: absolute;
+    margin-left: 650px;
+    margin-top: 100px;
+    
+}
+.text {
+    color: black;
+    position: absolute;
+    margin-top: 410px;
+    margin-left: 500px;
+}
