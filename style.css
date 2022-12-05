@@ -20,10 +20,10 @@ body {
     margin-top: 410px;
     margin-left: 500px;
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 350px) {
 
     #grad1 {
-        width: 400px;
+        width: 350px;
     }
     .text {
         position: absolute;
